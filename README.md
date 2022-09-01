@@ -1,4 +1,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesocana6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesocana6)](https://github.com/anuraghazra/github-readme-stats)
+
 
 I'm a software engineer that is passionate about making games and apps to solve some of my daily problems. I like to manipulate and organize data to gain a better understanding of trends and ideas. 
 
