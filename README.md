@@ -9,7 +9,7 @@ Languages and libraries/frameworks I've worked with:
 | --- | ---- |
 | Java | |
 | Javascript | jQuery, express, ejs |
-| CSS | bootstrap, skeleton, normalize |
+| CSS | bootstrap, skeleton, normalize, materialize |
 | HTML | |
 
 I'm currently working on a math game to practice mental math and pattern recognition! This is a project I used to learn how to code in Java. After I complete my software engineering bootcamp, I plan to revisit this game and implement what I learned to spice up the code and style of the game a litte more!  
