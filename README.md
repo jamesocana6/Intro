@@ -8,7 +8,7 @@ Languages and libraries/frameworks I've worked with:
 | Languages | Libraries/Frameworks |
 | --- | ---- |
 | Java | |
-| Javascript | jQuery, express, ejs |
+| Javascript | jQuery, express, ejs, React |
 | CSS | bootstrap, skeleton, normalize, materialize |
 | HTML | |
 
