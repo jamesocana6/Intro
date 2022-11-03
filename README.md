@@ -1,15 +1,56 @@
+## Hello! I'm James Ocaña!
+I'm a chemical engineer turned software engineer that loves problem solving. 
+Coding is my creative outlet and I have lots of ideas I want to turn into working apps!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesocana6)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesocana6)](https://github.com/anuraghazra/github-readme-stats)
 
+Some of my interests: 
+- games
+- sports 
+- environmental science
+- sustainability
+- math and science
+- cooking
+- baking
 
-I'm a software engineer that is passionate about making games and apps to solve some of my daily problems. Coding is my creative outlet and I want to keep learning until I can turn an idea into a fully functioning app. I like to manipulate and organize data to gain a better understanding of trends and ideas. 
+Some technologies and tools I use: 
+<p>
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 
-Languages and libraries/frameworks I've worked with:
-| Languages | Libraries/Frameworks |
-| --- | ---- |
-| Java | |
-| Javascript | jQuery, express, ejs, React |
-| CSS | bootstrap, skeleton, normalize, materialize |
-| HTML | |
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-I'm currently working on a math game to practice mental math and pattern recognition! This is a project I used to learn how to code in Java. After I complete my software engineering bootcamp, I plan to revisit this game and implement what I learned to spice up the code and style of the game a litte more!  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+ 
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /> 
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  
+<img style="height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+ 
+ 
+<img style="height: 35px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+ 
+  
+</p>
+
+I'm currently working on a math game to practice mental math and pattern recognition! This is a project I used to learn how to code in Java. I love creating apps and games that serve a purpose. I recently finished a software engineering bootcamp and now I am revisiting my old applications to add more functionality. Look out for more future apps and games to come!  
