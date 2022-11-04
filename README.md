@@ -1,4 +1,4 @@
-## Hello! I'm James Ocaña!
+## Hello! 👋 I'm James Ocaña!
 I'm a chemical engineer turned software engineer that loves problem solving. 
 Coding is my creative outlet and I have lots of ideas I want to turn into working apps!
 
@@ -7,13 +7,13 @@ Coding is my creative outlet and I have lots of ideas I want to turn into workin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesocana6)](https://github.com/anuraghazra/github-readme-stats)
 
 Some of my interests: 
-- games
-- sports 
-- environmental science
-- sustainability
-- math and science
-- cooking
-- baking
+- games 🎮
+- sports ⚾️
+- environmental science 🌲
+- sustainability 🌱
+- math and science 🔬
+- cooking 🍖
+- baking 🍪
 
 Some technologies and tools I use: 
 <p>
